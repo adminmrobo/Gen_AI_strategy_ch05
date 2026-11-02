@@ -1,0 +1,544 @@
+{
+ "version": "0.1",
+ "created": "2026-11-01",
+ "note": "05번 페이지가 첫 등록. 다른 시리즈 등록부가 있으면 합칠 것.",
+ "ids": [
+  {
+   "id": "lab:concept/prompt-engineering",
+   "type": "Concept",
+   "ko": "프롬프트 설계",
+   "en": "prompt engineering",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/hypothesis-validation",
+   "type": "Concept",
+   "ko": "아이디어 검증",
+   "en": "idea validation",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/parallel-testing",
+   "type": "Concept",
+   "ko": "병렬 가벼운 검증",
+   "en": "parallel lightweight testing",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/decision-quality",
+   "type": "Concept",
+   "ko": "의사결정 품질",
+   "en": "decision quality",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/mvp",
+   "type": "Concept",
+   "ko": "최소 기능 제품",
+   "en": "minimum viable product",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/product-market-fit",
+   "type": "Concept",
+   "ko": "제품-시장 적합도",
+   "en": "product-market fit",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:method/five-stage-flow",
+   "type": "Method",
+   "ko": "5단계 흐름",
+   "en": "five-stage flow",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:task/market-analysis",
+   "type": "Task",
+   "ko": "시장 분석",
+   "en": "market analysis",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:task/kpi-design",
+   "type": "Task",
+   "ko": "KPI 설계",
+   "en": "KPI design",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:task/pnl-simulation",
+   "type": "Task",
+   "ko": "손익 시뮬레이션",
+   "en": "P&L simulation",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:task/branding",
+   "type": "Task",
+   "ko": "브랜딩 액션",
+   "en": "branding action",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/conversion-funnel",
+   "type": "Concept",
+   "ko": "전환 퍼널",
+   "en": "conversion funnel",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:metric/checkout-conversion",
+   "type": "Metric",
+   "ko": "결제 전환율",
+   "en": "checkout conversion rate",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:metric/repurchase-rate",
+   "type": "Metric",
+   "ko": "재구매율",
+   "en": "repurchase rate",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:metric/aov",
+   "type": "Metric",
+   "ko": "객단가",
+   "en": "average order value",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:metric/return-rate",
+   "type": "Metric",
+   "ko": "반품률",
+   "en": "return rate",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:metric/ad-efficiency",
+   "type": "Metric",
+   "ko": "광고비 효율",
+   "en": "advertising efficiency",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/sensitivity",
+   "type": "Concept",
+   "ko": "민감도",
+   "en": "sensitivity",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/ltv",
+   "type": "Concept",
+   "ko": "고객 생애 가치",
+   "en": "customer lifetime value",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/margin",
+   "type": "Concept",
+   "ko": "마진율",
+   "en": "margin rate",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:method/cafe-seven-steps",
+   "type": "Method",
+   "ko": "카페 7단계 분석",
+   "en": "cafe seven-step analysis",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:metric/capture-rate",
+   "type": "Metric",
+   "ko": "유입률",
+   "en": "capture rate",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:metric/seat-turnover",
+   "type": "Metric",
+   "ko": "좌석 회전율",
+   "en": "seat turnover",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/break-even",
+   "type": "Concept",
+   "ko": "손익분기점",
+   "en": "break-even point",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/fixed-variable-cost",
+   "type": "Concept",
+   "ko": "고정비·변동비",
+   "en": "fixed and variable costs",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/scenario-range",
+   "type": "Concept",
+   "ko": "시나리오 폭",
+   "en": "scenario range",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/go-redesign-stop",
+   "type": "Concept",
+   "ko": "진행·재설계·중지",
+   "en": "go / redesign / stop",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:method/rtp-ask-fc",
+   "type": "Method",
+   "ko": "RTP-ASK-FC",
+   "en": "RTP-ASK-FC prompt frame",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:term/role",
+   "type": "Term",
+   "ko": "역할(R)",
+   "en": "role",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:term/context",
+   "type": "Term",
+   "ko": "맥락(C)",
+   "en": "context",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:term/task",
+   "type": "Term",
+   "ko": "과업(T)",
+   "en": "task",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:term/purpose",
+   "type": "Term",
+   "ko": "목적(P)",
+   "en": "purpose",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:term/audience",
+   "type": "Term",
+   "ko": "청중(A)",
+   "en": "audience",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:term/style",
+   "type": "Term",
+   "ko": "스타일(S)",
+   "en": "style",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:term/format",
+   "type": "Term",
+   "ko": "형식(F)",
+   "en": "format",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:term/knowledge",
+   "type": "Term",
+   "ko": "지식(K)",
+   "en": "knowledge",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:method/problem-decomposition",
+   "type": "Method",
+   "ko": "문제 분해 7단계",
+   "en": "problem decomposition",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:method/brand-asset-process",
+   "type": "Method",
+   "ko": "브랜딩 자산 5단계",
+   "en": "brand asset process",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:concept/style-guide",
+   "type": "Concept",
+   "ko": "브랜드 스타일 가이드",
+   "en": "brand style guide",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:limitation/where-it-leaks",
+   "type": "Limitation",
+   "ko": "흐름만으로는 어디서 새는지 모른다",
+   "en": "flow alone hides where value leaks",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:limitation/physical-capacity",
+   "type": "Limitation",
+   "ko": "온라인 퍼널은 입지·좌석 같은 물리 제약을 못 담는다",
+   "en": "funnels ignore physical capacity",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:limitation/vague-question",
+   "type": "Limitation",
+   "ko": "질문이 흐리면 가정도 흐려진다",
+   "en": "vague questions give vague assumptions",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:limitation/one-shot",
+   "type": "Limitation",
+   "ko": "한 줄 프롬프트로 큰 문제를 한 번에 풀 수 없다",
+   "en": "one prompt cannot solve a big problem at once",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:limitation/output-is-hypothesis",
+   "type": "Limitation",
+   "ko": "AI 출력은 결론이 아니라 가설이다",
+   "en": "AI output is a hypothesis, not a verdict",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:claim/5-10x",
+   "type": "Claim",
+   "ko": "같은 시간·비용으로 5~10배 많은 콘셉트를 검증",
+   "en": "5-10x more concepts tested",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:claim/funnel-six",
+   "type": "Claim",
+   "ko": "패션몰 전환 퍼널은 여섯 단계",
+   "en": "six-stage fashion funnel",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:claim/cafe-revenue",
+   "type": "Claim",
+   "ko": "예시 월 매출 6,500원 × 80명 × 26일 ≈ 1,352만원",
+   "en": "example monthly revenue",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:claim/cafe-profit",
+   "type": "Claim",
+   "ko": "평균 시나리오 월 손익 100~300만원(교안 추정)",
+   "en": "handout profit estimate",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:claim/eight-elements",
+   "type": "Claim",
+   "ko": "프롬프트 설계 요소는 여덟 가지",
+   "en": "eight prompt elements",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:claim/three-outcomes",
+   "type": "Claim",
+   "ko": "카페 분석의 결론은 진행·재설계·중지 셋 중 하나",
+   "en": "three outcomes",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:question/core",
+   "type": "Question",
+   "ko": "프롬프트 한 줄로 창업 아이디어를 숫자로 시험할 수 있을까?",
+   "en": "core question",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:question/duel",
+   "type": "Question",
+   "ko": "같은 월 500만원, 광고에 쓸까 결제 마찰을 줄이는 데 쓸까?",
+   "en": "duel question",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:question/ltv-horizon",
+   "type": "Question",
+   "ko": "재구매의 누적 가치는 몇 달 기준으로 봐야 하나?",
+   "en": "LTV horizon",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:question/real-data",
+   "type": "Question",
+   "ko": "예시값 대신 실제 상권 데이터를 넣으면 결론이 바뀔까?",
+   "en": "real data check",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:analogy/leaky-ledger",
+   "type": "Analogy",
+   "ko": "새는 장부 칸",
+   "en": "leaky ledger",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:analogy/seat-coin",
+   "type": "Analogy",
+   "ko": "하루에 여러 번 돈을 버는 좌석",
+   "en": "seat as a coin slot",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:analogy/order-form",
+   "type": "Analogy",
+   "ko": "주문서 빈칸",
+   "en": "order form blanks",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:analogy/portfolio",
+   "type": "Analogy",
+   "ko": "작게 여러 곳에 걸어 보기",
+   "en": "small bets",
+   "pages": [
+    "05"
+   ]
+  },
+  {
+   "id": "lab:work/handout-ch5",
+   "type": "Work",
+   "ko": "제5장 프롬프트 엔지니어링 활용 — 창업 업종분석(교안)",
+   "en": "Chapter 5 handout",
+   "pages": [
+    "05"
+   ]
+  }
+ ],
+ "refs": [
+  {
+   "id": "handout2026ch5prompt",
+   "title": "제5장 프롬프트 엔지니어링 활용 — 창업 업종분석: 카페·패션몰"
+  }
+ ]
+}
